@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+### Live Priview: https://product-order-list-assign.netlify.app/
+### Video Priview: https://drive.google.com/file/d/1XF3tV6dC9qMbkU5Tm1QfItxRGS7OuHLC/view?usp=sharing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
